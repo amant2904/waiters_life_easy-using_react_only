@@ -1,0 +1,26 @@
+.table{
+    border: 2px solid rgb(107, 5, 5);
+    width: 27%;
+    box-sizing: border-box;
+    padding: 7px;
+    height: fit-content;
+}
+.table h2{
+    text-align: center;
+    color: rgb(107, 5, 5);
+}
+.data{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 10px;
+    border: 1px solid rgb(107, 5, 5);
+    padding: 0px 10px;
+}
+.dlt_btn{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    border-radius: 7px;
+    cursor: pointer;
+}

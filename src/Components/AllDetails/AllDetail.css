@@ -1,0 +1,14 @@
+.all-details{
+    width: 80%;
+    margin: 50px auto;
+}
+.all-details h1{
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: rgb(107, 5, 5);
+}
+.all-tables{
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,39 @@
+.user-form{
+    width: 80%;
+    margin: 20px auto;
+    /* border: 2px solid rgb(107, 5, 5); */
+    padding: 10px;
+    box-shadow: 3px 3px 7px 2px #787878;
+}
+.user-form h1{
+    text-align: center;
+    color: rgb(107, 5, 5);
+    text-decoration: underline;
+}
+.user-form form{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.select-table{
+    display: flex;
+    flex-direction: column;
+}
+.select-table label{
+    margin: 3px 0px;
+    color: rgb(107, 5, 5);;
+    font-weight: bolder;
+}
+.select-table select{
+    padding: 5px;
+    border: 1px solid rgb(107, 5, 5);
+    font-size: 20px;
+}
+.submit_btn{
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 17px;
+    background-color: rgb(107, 5, 5);
+    color: white;
+    border: 1px solid white;
+}

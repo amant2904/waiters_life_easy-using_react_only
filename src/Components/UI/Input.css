@@ -1,0 +1,14 @@
+.input-field{
+    margin: 5px 0px;
+}
+.input-field label{
+    margin: 2px 0px;
+    display: block;
+    color: rgb(107, 5, 5);
+    font-weight: bolder;
+}
+.input-field input{
+    padding: 5px;
+    border: 1px solid rgb(107, 5, 5);
+    font-size: 20px;
+}
